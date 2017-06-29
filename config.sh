@@ -45,7 +45,7 @@ LATESTARTSERVICE=false
 
 
 # Set to true if you need install app in the folder "data/app" in /data/app 
-DATAAPP=false
+DATAAPP=true
 
 ##########################################################################################
 # Installation Message
