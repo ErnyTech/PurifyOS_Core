@@ -45,7 +45,7 @@ LATESTARTSERVICE=false
 
 
 # Set to true if you need install app in the folder "data/app" in /data/app 
-DATAAPP=false
+DATAAPP=true
 
 ##########################################################################################
 # Installation Message
@@ -55,7 +55,7 @@ DATAAPP=false
 
 print_modname() {
   ui_print "*******************************"
-  ui_print "     Magisk Module Template    "
+  ui_print "     PurifyOS Core   "
   ui_print "*******************************"
 }
 
