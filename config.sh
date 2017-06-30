@@ -55,7 +55,7 @@ DATAAPP=true
 
 print_modname() {
   ui_print "*******************************"
-  ui_print "     Magisk Module Template    "
+  ui_print "     PurifyOS      "
   ui_print "*******************************"
 }
 
@@ -79,6 +79,47 @@ REPLACE="
 # Construct your own list here, it will overwrite the example
 # !DO NOT! remove this if you don't need to replace anything, leave it empty as it is now
 REPLACE="
+/system/app/AndroidPay
+/system/app/AntHalService
+/system/app/BasicDreams
+/system/app/BluetoothMidiService
+/system/app/BTtestmode
+/system/app/Drive   
+/system/app/Calculator
+/system/app/CalendarGoogle
+/system/app/DivesIconPack     
+/system/app/EngineeringMode 
+/system/app/LogKitSdService
+/system/app/EngSpecialTest 
+/system/app/Hangouts 
+/system/app/Maps
+/system/app/Duo
+/system/app/Gmail2
+/system/app/Music2                
+/system/app/OPBugReport_Complete
+/system/app/OPBugReport_Lite
+/system/app/OpenWnn
+/system/app/SensorTestTool   
+/system/app/OEMLogKit 
+/system/app/NFCTestMode
+/system/app/Photos 
+/system/app/YouTube
+/system/app/NVBackupUI 
+/system/app/SwiftKey
+/system/app/SwiftKeyFactorySettings
+/system/app/Videos
+/system/app/Stk  
+/system/app/WifiRfTestApk
+/system/app/RifonIconPack
+/system/app/talkback
+/system/priv-app/OPMms
+/system/priv-app/Tag
+/system/priv-app/Contacts 
+/system/priv-app/Dialer
+/system/app/Chrome
+/system/app/GoogleTTS
+/system/reserve/OPFilemanager
+/system/reserve/OPForum
 "
 
 ##########################################################################################
