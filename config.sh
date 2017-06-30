@@ -28,10 +28,10 @@
 
 # This will be the folder name under /magisk
 # This should also be the same as the id in your module.prop to prevent confusion
-MODID=template
+MODID=PurifyOSCore
 
 # Set to true if you need to enable Magic Mount
-# Most mods would like it to be enabled
+# Most mods would like it to be enable
 AUTOMOUNT=true
 
 # Set to true if you need to load system.prop
